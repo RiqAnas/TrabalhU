@@ -1,4 +1,4 @@
-#### TrabalhU
+# TrabalhU
 
 (Recomendada visualização do código na branch riq_dev para leitura mais clara)
 
